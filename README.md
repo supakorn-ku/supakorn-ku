@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=ศุภกร+%7C+Supakorn;IT+Student+%40+Kasetsart+University;Gamer+%7C+Content+Creator+%7C+Learner" alt="Typing SVG" />
+# ศุภกร | Supakorn
 
-<br>
+**IT Student @ Kasetsart University, Kamphaeng Saen Campus**
 
 ![Status](https://img.shields.io/badge/STATUS-LEARNING-00ff9c?style=for-the-badge&labelColor=0d1117)
 ![Campus](https://img.shields.io/badge/KU-KAMPHAENG_SAEN-006664?style=for-the-badge&labelColor=0d1117)
