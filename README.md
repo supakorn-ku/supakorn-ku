@@ -1,23 +1,50 @@
-<h1 align="center">ศุภกร | Supakorn</h1>
+<div align="center">
 
-<p align="center">
-นิสิตสาขาเทคโนโลยีสารสนเทศ<br>
-คณะศิลปศาสตร์และวิทยาศาสตร์<br>
-มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=ศุภกร+%7C+Supakorn;IT+Student+%40+Kasetsart+University;Gamer+%7C+Content+Creator+%7C+Learner" alt="Typing SVG" />
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-LEARNING-00ff9c?style=for-the-badge&labelColor=0d1117)
+![Campus](https://img.shields.io/badge/KU-KAMPHAENG_SAEN-006664?style=for-the-badge&labelColor=0d1117)
+![Major](https://img.shields.io/badge/MAJOR-INFORMATION_TECHNOLOGY-1f6feb?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
-## 01 — เกี่ยวกับฉัน
+## 🎮 เกี่ยวกับฉัน
 
-สวัสดีครับ ผมศุภกร น้อยถนอม เป็นนิสิตสาขาเทคโนโลยีสารสนเทศ มก.กำแพงแสน
-ตอนนี้กำลังเรียนรู้การใช้ GitHub และเครื่องมือต่างๆ สำหรับงานด้านไอที
+สวัสดีครับ ผมศุภกร น้อยถนอม นิสิตสาขาเทคโนโลยีสารสนเทศ
+คณะศิลปศาสตร์และวิทยาศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน
 
-## 02 — กำลังเรียนรู้
+ชอบเล่นเกม และสนใจทำคอนเทนต์ ตอนนี้กำลังเรียนรู้เครื่องมือสำหรับงานด้านไอที
+เพื่อต่อยอดเป็นผลงานของตัวเอง
 
-- GitHub
-- Figma
+---
 
-## 03 — ติดต่อ
+## 🛠️ Tech & Tools
 
-- อีเมล: mrsupakorn.n@ku.th
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎯 กำลังเรียนรู้
+
+- ⚡ GitHub และการจัดการโปรเจกต์
+- 🎨 ออกแบบ UI ด้วย Figma
+- 🎬 ทำคอนเทนต์ด้านเกม
+
+---
+
+## 📫 ติดต่อ
+
+[![Email](https://img.shields.io/badge/EMAIL-mrsupakorn.n@ku.th-00ff9c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:mrsupakorn.n@ku.th)
+
+<div align="center">
+
+`> ขอบคุณที่แวะมาดูครับ 🕹️`
+
+</div>
