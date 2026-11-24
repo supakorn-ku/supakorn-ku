@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">ศุภกร | Supakorn</h1>
 
-<!--
-**safen2549-tech/safen2549-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+นิสิตสาขาเทคโนโลยีสารสนเทศ<br>
+คณะศิลปศาสตร์และวิทยาศาสตร์<br>
+มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 01 — เกี่ยวกับฉัน
+
+สวัสดีครับ ผมศุภกร น้อยถนอม เป็นนิสิตสาขาเทคโนโลยีสารสนเทศ มก.กำแพงแสน
+ตอนนี้กำลังเรียนรู้การใช้ GitHub และเครื่องมือต่างๆ สำหรับงานด้านไอที
+
+## 02 — กำลังเรียนรู้
+
+- GitHub
+- Figma
+
+## 03 — ติดต่อ
+
+- อีเมล: mrsupakorn.n@ku.th
